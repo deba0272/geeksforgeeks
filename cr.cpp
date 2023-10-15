@@ -1,6 +1,3 @@
-#include<iostream>
-#include<vector>
-using namespace std;
 class Solution{
 public:
     int nCr(int n, int r){
